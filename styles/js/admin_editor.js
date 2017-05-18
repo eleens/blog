@@ -39,8 +39,5 @@ function showErrorAlert (reason, detail) {
 
 $("#save").click(function(){
     data = $("#editor").html();
-    data2 = $("#editor").val();
-    var folder=''
-    var fileName=''
     console.log(data);
 });
