@@ -5,6 +5,10 @@ date:   2017-05-23 16:12:01 +0800
 categories: document
 tag: 其他
 ---
+
+* content
+{:toc}
+
 简介
 -------------
 Markdown 是从文本到html的一种转换工具，相比于html，markdown更易读和写，下面就简单介绍一些markdown的基本语法。

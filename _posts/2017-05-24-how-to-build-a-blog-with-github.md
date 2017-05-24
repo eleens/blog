@@ -6,6 +6,9 @@ categories: document
 tag: 其他
 ---
 
+* content
+{:toc}
+
 之前一直想要一个拥有自己的个人博客，后来发现github不仅可以用作自己的代码库，还可以利用gitpages搭建个人博客，这里我简单的介绍如何构建一个个人的博客。
 
 
@@ -111,3 +114,6 @@ _site
 
 ![setting]({{ '/styles/images/doc_img/blog4.png' | prepend: site.baseurl  }} "setting")
 
+8、输入你的域名就可以看到自己的blog了
+
+![blog]({{ '/styles/images/doc_img/blog5.png' | prepend: site.baseurl  }} "blog")
