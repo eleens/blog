@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 学习linux命令
-date: 2017-05-25 13:12:01 +0800
+date: 2017-05-26 13:12:01 +0800
 categories: document
 tag: linux
 ---
@@ -61,6 +61,7 @@ ls  [-al/-a -l] [文件夹目录]  #查看目录下所有显示文件，加上�
     -rw-r--r--   1 root     root       676 May 18 16:51 tem.py
     drwxr-xr-x. 22 vs_cloud vs_cloud  4096 May 25 20:06 vs_cloud
     -rwxr-x---   1 root     root     15714 May  8 19:36 vscloud-dashboard-mariadb.spec
+    [权限]     [连接][用户] [用户组]  [文件容量]  [修改日期]      [文件名]
 
 ### LANG  设置语言
 
