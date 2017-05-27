@@ -22,9 +22,6 @@ highlighter: Pygments
 
 # Build settings
 markdown: kramdown
-markdown: redcarpet
-redcarpet:
-    extensions: ["tables"]
 
 baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 
