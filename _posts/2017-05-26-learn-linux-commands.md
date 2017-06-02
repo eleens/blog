@@ -145,6 +145,29 @@ cal [[month] year]   查看某年某月的日历
 + poweroff  关机
 
 
+### 文件
+
+* mkdir [-mp]  新建文件夹(-m 添加权限，-p递归的创建上级目录)
+* rmdir [-p] 删除一个空的目录（-p 递归的删除）
+* touch  新建空文件
+* cd   切换目录
+* pwd [-P] 显示当前目录(-p 指的是显示实际的文件的路径而非连接文件的路径）
+
+path
+
+    [root@vs-controller bin]# echo $PATH
+    /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin
+    [root@vs-controller bin]# PATH = "$PATH":/root
+
+
+su - vscloud 切换用户到vscloud
+
+### 查看centos
+
+uname -r 查看实际的内核版本
+lsb_release -a
+
+
 
 
 
