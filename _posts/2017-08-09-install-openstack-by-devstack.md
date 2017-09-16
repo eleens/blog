@@ -69,6 +69,10 @@ tag: 环境
 
     HOST_IP=192.168.6.70
 
+    # lbass
+    enable_plugin neutron-lbaas https://git.openstack.org/openstack/neutron-lbaas mitaka-eol
+    #enable_plugin octavia https://git.openstack.org/openstack/octavia mitaka-eol
+
 
     # Credentials
     DATABASE_PASSWORD=pass
@@ -109,6 +113,7 @@ tag: 环境
     enable_service q-l3
     enable_service q-meta
     enable_service q-metering
+    enable_service q-lbaasv2
     enable_service neutron
 
     ## Neutron options
