@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  用devstack安装openstack
-date:   2017-05-23 16:12:01 +0800
+date:   2017-08-09 16:12:01 +0800
 categories: openstack
 tag: 环境
 ---
