@@ -2,8 +2,8 @@
 layout: post
 title:  用python调用阿里云API
 date:   2017-05-25 13:12:01 +0800
-categories: document
-tag: 其他
+categories: python
+tag: 阿里云
 ---
 
 * content

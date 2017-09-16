@@ -2,8 +2,8 @@
 layout: post
 title: 笔记
 data: 2017-05-27 13:12:01 +0800
-categories: document
-tag: linux
+categories: linux
+tag: 命令
 ---
 
 * content

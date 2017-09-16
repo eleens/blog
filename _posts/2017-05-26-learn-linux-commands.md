@@ -2,8 +2,8 @@
 layout: post
 title: 学习linux命令
 date: 2017-05-26 13:12:01 +0800
-categories: document
-tag: linux
+categories: linux
+tag: 命令
 ---
 
 * content
@@ -167,6 +167,11 @@ su - vscloud 切换用户到vscloud
 uname -r 查看实际的内核版本
 lsb_release -a
 
+tee
+
+功能说明：读取标准输入的数据，并将其内容输出成文件。
+
+语　　法：tee [-ai][--help][--version][文件...]
 
 
 

@@ -2,8 +2,8 @@
 layout: post
 title:  python学习
 date:   2017-06-21 16:12:01 +0800
-categories: document
-tag: python
+categories: python
+tag: 笔记
 ---
 
 * content
