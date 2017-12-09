@@ -191,6 +191,7 @@ tag: 环境
     ./stack.sh
 
 3) devstack安装openstack之后无法进去网址
+
 解决：
 
 关掉防火墙
