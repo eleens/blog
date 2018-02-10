@@ -9,6 +9,12 @@ tag: 其他
 * content
 {:toc}
 
+    A moment on the lips, forever on the hips.
+
+                      ——————— 贪得一时嘴馋，平添一生赘肉。
+
+---------------------------------------
+
 简介
 -------------
 Markdown 是从文本到html的一种转换工具，相比于html，markdown更易读和写，下面就简单介绍一些markdown的基本语法。
